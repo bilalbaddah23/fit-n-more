@@ -1,0 +1,158 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-01.jpg",
+    "sha256": "5dc0eb391b649f21612154c084bade496e5a4920add5a84741423ce3da162e67",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-02.jpg",
+    "sha256": "23e90ce8ea87938c68003f99b780da912e6bf34d161139311e6f15426d678444",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-03.jpg",
+    "sha256": "645c2fe92adbf05b41872a22cc1c5bfef3e96569978807aaca4eab710fc8ff3f",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-04.jpg",
+    "sha256": "7f72297b80fb50179fa23ad73d4cd0abe7afa64c0550dca8749520cda4d0032b",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-12.jpg",
+    "sha256": "2fad2234f1b9304f5fe24538aab163cda735f0e5c3c8ef4185bbb6ecc1cb2377",
+    "originalDimensions": [
+      640,
+      640
+    ],
+    "webDimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-05.jpg",
+    "sha256": "5d799856af9189437df121c4c1b8c57161480fb0d129cda0d0cb60bcd2052378",
+    "originalDimensions": [
+      502,
+      640
+    ],
+    "webDimensions": [
+      502,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-06.jpg",
+    "sha256": "36878e265ace3e4ca997928e25571d11a62a2c3b4098936fa6bda202a99376b3",
+    "originalDimensions": [
+      501,
+      640
+    ],
+    "webDimensions": [
+      501,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-07.jpg",
+    "sha256": "4fde00f8a3bf7b744f554108b0fa9b0a4e5123d4fd83cee79e970ec76e44504d",
+    "originalDimensions": [
+      501,
+      640
+    ],
+    "webDimensions": [
+      501,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-08.jpg",
+    "sha256": "f68832208eeaf1c7f4312530b37ccde7e003d46bca7a201c628a2e1032563569",
+    "originalDimensions": [
+      640,
+      639
+    ],
+    "webDimensions": [
+      640,
+      639
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-09.jpg",
+    "sha256": "6d127940a80341e9ca2864760ffa8f6a92a90c71baeb1d88d94c620ef186ee25",
+    "originalDimensions": [
+      640,
+      639
+    ],
+    "webDimensions": [
+      640,
+      639
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-10.jpg",
+    "sha256": "68a096002b011d02f8188c027489e48d03e0dd4b772f8a9f6aae6628cb195997",
+    "originalDimensions": [
+      634,
+      640
+    ],
+    "webDimensions": [
+      634,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\fit-n-more\\assets\\fit-11.jpg",
+    "sha256": "9079c3df99c464cee86309fb44e722ea720fe4875a6b3286addcf897c027a6e2",
+    "originalDimensions": [
+      640,
+      639
+    ],
+    "webDimensions": [
+      640,
+      639
+    ]
+  }
+]

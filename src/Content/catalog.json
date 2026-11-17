@@ -1,0 +1,200 @@
+{
+  "brand": "Fit N More",
+  "contactMode": "whatsapp",
+  "phone": "971505605810",
+  "displayPhone": "+971 50 560 5810",
+  "instagram": "https://www.instagram.com/fitnmore/",
+  "hours": "Confirm with the shop",
+  "hero": "/images/collection-08.jpg",
+  "story": "/images/collection-07.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-05.jpg"
+  ],
+  "products": [
+    {
+      "id": "grey-striped-sneakers",
+      "name": "Grey Striped Sneakers",
+      "collection": "Sneakers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Grey low-top sneakers with pale side stripes, cream laces and a translucent-look sole shown in the shop’s public Reel cover. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/reel/Dfz5T2MRvqb/"
+    },
+    {
+      "id": "brown-mesh-sneakers",
+      "name": "Brown Mesh Sneakers",
+      "collection": "Sneakers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Brown mesh-style low-top sneakers with cream details shown from two angles in the business’s public Reel covers. These two photographs are one grouped shoe edit. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/reel/DfxmDdtxi0p/"
+    },
+    {
+      "id": "cream-statement-sneakers",
+      "name": "Cream Statement Sneakers",
+      "collection": "Sneakers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Chunky cream sneakers with brown overlays shown styled on foot in a public Reel cover. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/reel/DfxkIS6xpGj/"
+    },
+    {
+      "id": "sky-blue-lounge-set",
+      "name": "Sky Blue Lounge Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Pale blue long-sleeve top and wide-leg trousers shown with small burgundy trefoil-style graphics. A detail photograph of the drawstring trouser waist is grouped with the full outfit. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-05.jpg",
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/DfuB84PGV_e/"
+    },
+    {
+      "id": "cream-sweatshirt-set",
+      "name": "Cream Sweatshirt Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Cream oversized sweatshirt and matching relaxed trousers shown together on a model. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/DfxHkr0kV87/"
+    },
+    {
+      "id": "grey-cardigan-set",
+      "name": "Grey Cardigan Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Grey button-front cardigan and relaxed matching trousers shown as a coordinated outfit. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/Dfw0KstEQJ-/"
+    },
+    {
+      "id": "cherry-blossom-sneakers",
+      "name": "Cherry Blossom Sneakers",
+      "collection": "Sneakers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Burgundy-and-pink low-top striped sneakers shown with pink spare laces and a Cherry Blossom caption baked into the original business image. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/DfudgB-mVpH/"
+    },
+    {
+      "id": "strawberry-cream-sneakers",
+      "name": "Strawberry Cream Sneakers",
+      "collection": "Sneakers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Pink-and-red patterned sneakers shown on foot in the business’s Strawberry Cream image. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/DfucpH7GWAk/"
+    },
+    {
+      "id": "bambi-print-sneakers",
+      "name": "Bambi Print Sneakers",
+      "collection": "Sneakers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Spotted tan-and-brown striped sneakers photographed among flowers in the business’s Bambi-labelled image. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/DfuYvAmmVTV/"
+    },
+    {
+      "id": "grey-zip-tracksuit",
+      "name": "Grey Zip Tracksuit",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Grey hooded zip-front top and matching relaxed trousers shown together on a model. Styling accessories are not automatically part of the outfit. The names describe the pictured styles and are not verified official product references. Ask Fit N More to confirm the brand, authenticity, current price, stock, size, materials, delivery and final order terms. No availability or authenticity guarantee is made by this independent demo.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/fitnmore/p/DfuOGC1GRzR/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}
